@@ -32,7 +32,7 @@ namespace UnicamCompleanno
                 
                 if (differenzaInGiorni == 0) 
                 {
-                    Console.WriteLine("Tanti Auguri!");
+                    Console.WriteLine("Buon compleanno!");
                 } else
                 {
                     Console.WriteLine($"Restano {differenzaInGiorni} giorni al tuo prossimo compleanno!");
